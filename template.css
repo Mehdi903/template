@@ -1,1 +1,82 @@
+*{
+    margin: 0%;
+    padding: 0%;
 
+}
+body{
+    background-color: black;
+    background-image: url('AddText_05-13-02.47.05.png');
+    width: 100%;
+    overflow-x: hidden;
+    background-repeat: no-repeat;
+    background-position: top left;
+}
+.img{
+    width: 60px;
+}
+.heading h1{
+    align-items: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 5%;
+    margin-left: 5%;
+    color: white;
+    max-width: 50%;
+}
+.heading p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 5%;
+    margin-left: 5%;
+    max-width: 60%;
+    color: white;
+}
+.heading h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 5%;
+    color: white;
+    max-width: 50%;
+}
+.foot{
+    
+transition: all 1s;
+
+}
+.col1{
+    align-items: center;
+    text-align: center;
+}
+.col2{
+    align-items: center;
+    text-align: center;
+}
+.col3{
+    align-items: center;
+    text-align: center;
+}
+.col1:hover{
+
+    height: 650px;
+    margin-top: -1%;
+
+}
+.col2:hover{
+
+    height: 650px;
+    margin-top: -1%;
+
+}
+
+.col3:hover{
+
+    height: 650px;
+    margin-top: -1%;
+
+}
+.btn1{
+    margin-top: 12%;
+}
+.btn2{
+    margin-top: 5%;
+}
+.btn3{
+    margin-top: 8%;
+}
